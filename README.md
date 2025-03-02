@@ -32,6 +32,3 @@ PDF Agent Prime is an intelligent document assistant powered by AWS Bedrock and 
 - Required environment variables:
   - `BUCKET_NAME`: AWS S3 bucket name for storing indexes
 
-## 🔧 Installation
-
-1. Clone the repository:
