@@ -81,5 +81,7 @@ DocumentAI-Assistant represents a cutting-edge document interaction system that 
 
 3. Access the user interface at `http://localhost:8084`
 
+## License
 
+This project is licensed under the MIT License - see the LICENSE file for details.
 
